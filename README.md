@@ -1,4 +1,4 @@
-# Reinforcement-Learning
+# Reinforcement Learning
 
 RL Zoo - Implementation of RL algorithms.
 
