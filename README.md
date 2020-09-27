@@ -17,6 +17,7 @@ RL Zoo - Implementation of RL algorithms.
   - [Q-learning, Off-Policy TD Control](https://github.com/grohith327/Reinforcement-Learning/blob/master/Q-learning%20off-Policy%20TD%20control.ipynb)
 - Q-learning
   - [Deep Q-learning](https://github.com/grohith327/Reinforcement-Learning/blob/master/Deep%20Q%20Learning.ipynb)
+  - [Double DQN](https://github.com/grohith327/Reinforcement-Learning/blob/master/Double%20DQN.ipynb)
 
 ## References
 
