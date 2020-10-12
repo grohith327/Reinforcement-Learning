@@ -19,6 +19,8 @@ RL Zoo - Implementation of RL algorithms.
   - [Deep Q-learning](https://github.com/grohith327/Reinforcement-Learning/blob/master/Deep%20Q%20Learning.ipynb)
   - [Double DQN](https://github.com/grohith327/Reinforcement-Learning/blob/master/Double%20DQN.ipynb)
   - [Prioritized Experience Replay](https://github.com/grohith327/Reinforcement-Learning/blob/master/Prioritized%20Experience%20Replay.ipynb)
+- Policy Gradient
+    - [REINFORCE](https://github.com/grohith327/Reinforcement-Learning/blob/master/REINFORCE.ipynb)
 
 ## References
 
