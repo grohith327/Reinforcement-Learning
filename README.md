@@ -21,6 +21,8 @@ RL Zoo - Implementation of RL algorithms.
   - [Prioritized Experience Replay](https://github.com/grohith327/Reinforcement-Learning/blob/master/Prioritized%20Experience%20Replay.ipynb)
 - Policy Gradient
     - [REINFORCE](https://github.com/grohith327/Reinforcement-Learning/blob/master/REINFORCE.ipynb)
+- Actor-Critic
+    - [Adavantage Actor-Critic(A2C)](https://github.com/grohith327/Reinforcement-Learning/blob/master/A2C.ipynb)
 
 ## References
 
