@@ -23,7 +23,8 @@ RL Zoo - Implementation of RL algorithms.
     - [REINFORCE](https://github.com/grohith327/Reinforcement-Learning/blob/master/REINFORCE.ipynb)
     - [Proximal Policy Optimization (PPO)](https://github.com/grohith327/Reinforcement-Learning/blob/master/PPO.ipynb)
 - Actor-Critic
-    - [Adavantage Actor-Critic(A2C)](https://github.com/grohith327/Reinforcement-Learning/blob/master/A2C.ipynb)
+    - [Adavantage Actor-Critic (A2C)](https://github.com/grohith327/Reinforcement-Learning/blob/master/A2C.ipynb)
+    - [Deep Deterministic Policy Gradient (DDPG)](https://github.com/grohith327/Reinforcement-Learning/blob/master/DDPG.ipynb)
 
 ## References
 
