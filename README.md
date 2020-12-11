@@ -25,6 +25,7 @@ RL Zoo - Implementation of RL algorithms.
 - Actor-Critic
     - [Adavantage Actor-Critic (A2C)](https://github.com/grohith327/Reinforcement-Learning/blob/master/A2C.ipynb)
     - [Deep Deterministic Policy Gradient (DDPG)](https://github.com/grohith327/Reinforcement-Learning/blob/master/DDPG.ipynb)
+    - [Twin-Delayed Deep Deterministic Policy Gradient (TD3)](https://github.com/grohith327/Reinforcement-Learning/blob/master/TD3.ipynb)
 
 ## References
 
