@@ -30,4 +30,4 @@ RL Zoo - Implementation of RL algorithms.
 ## References
 
 - [Reinforcement Learning - An Introduction, Sutton and Barto](http://incompleteideas.net/book/RLbook2020.pdf)
-- [Deep Reinforcement Learning - Course by Lerell Pinto](https://www.youtube.com/playlist?list=PLE1BmmkA4lXDUKVlTQkLoiFn8eLkEGeN2)
+- [Deep Reinforcement Learning - Course by Lerrel Pinto](https://www.youtube.com/playlist?list=PLE1BmmkA4lXDUKVlTQkLoiFn8eLkEGeN2)
